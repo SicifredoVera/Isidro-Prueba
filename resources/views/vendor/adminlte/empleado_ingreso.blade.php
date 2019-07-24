@@ -23,6 +23,7 @@
                                 @csrf
                                 
                                 <!-- text input -->
+                                
                                 <div class="form-group">
                                     <label>Nombre</label>
                                     <input name="nombre" type="text" class="form-control" placeholder="Ingrese Nombre" autocomplete="off">
